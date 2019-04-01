@@ -1,4 +1,4 @@
-# Ridiculous stuff
+# Super Important Stuff
 
 function selfdestruct
 {
