@@ -1,3 +1,6 @@
+<img src="https://github.com/PickNikRobotics/crac_build_system/blob/master/assets/CRAC_blue.png" alt="C.R.A.C Logo" width="200"/>
+
+
 # crac_build_system
 The unified **C**atkin / **R**OSbuild / **A**ment / **C**olcon build system
 
