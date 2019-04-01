@@ -1,10 +1,6 @@
 # crac_build_system
-The unified Catin / ROSBuild / Ament / Colcon build system
+The unified **C**atkin / **R**OSbuild / **A**ment / **C**olcon build system
 
-**C**atkin
-**R**OSbuild
-**A**ment
-**C**olcon
 
 ## Motivation
 In the ROS world, capabilities are spread across countless packages. It is common for a developer to be working across many packages at the same time only to realize that some are available for ROS and others are only available for ROS 2. At this point, we have two options: 1) port the ROS dependencies to ROS 2 or 2) build a hybrid ROS/ROS 2 project with the ros1_bridge. Both of these alternatives have benefits and drawbacks.
