@@ -29,4 +29,4 @@ Every roboticist is a possible distribution point for C.R.A.C. Are you going to 
 It is really easy to start using C.R.A.C. Simply download this repo and source the most recent source file.
 
        git clone https://github.com/picknikrobotics/crac_build_system
-       . ./crac_build_system/src/super_important_script_backup_backup_final.sh
+       . ./crac_build_system/scripts/super_important_script_backup_backup_final.sh
