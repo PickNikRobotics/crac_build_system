@@ -27,3 +27,17 @@ function downloadRAM
     printf "\b"
     echo  "Done"
 }
+
+function crac
+{
+    i=1
+    sp="/-\|"
+    echo -n ' '
+    echo -n 'Automatically compiling your mixed-ROS workspace '
+    seconds=5; date1=$((`date +%s` + $seconds));
+    while [ "$date1" -ne `date +%s` ]; do
+        printf "\b${sp:i++%${#sp}:1}"
+    done
+    printf "\b"
+    echo  "Completed Successfully"
+}
